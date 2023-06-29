@@ -1,0 +1,18 @@
+footer {
+    /* Responsive styles for smaller screens */
+    @media (max-width: 768px) {
+        border: none; /* Remove the border on smaller screens */
+    }
+  }
+
+  footer{
+    background-color: #b14006;
+    padding: 10px;
+    text-align: center;
+    color: #050404;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 70px;
+
+  }
